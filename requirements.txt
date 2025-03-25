@@ -1,0 +1,17 @@
+# VSCode Ollama Chat Extension Dependencies
+
+# Core Dependencies
+node-fetch@2.6.7
+@types/node-fetch@2.6.2
+
+# Development Dependencies
+@types/vscode@1.85.0
+@types/node@16.x
+typescript@4.9.5
+@vscode/vsce@2.24.0
+
+# Node.js Version
+node>=16.x
+
+# VS Code Version
+vscode>=1.85.0 
